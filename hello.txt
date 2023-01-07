@@ -1,4 +1,4 @@
-Hello atguigu! Hello Git! The second change!
+Hello atguigu! Hello Git! The hot-fix change!
 Hello atguigu! Hello Git!
 Hello atguigu! Hello Git!
 Hello atguigu! Hello Git!
